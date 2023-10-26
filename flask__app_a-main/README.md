@@ -16,7 +16,7 @@ https://gray-intern-uaiso.ineuron.app:5000/
 ```
 # screenshort:
   Addition:
-![ADD](https://github.com/Nitishkumar427/flask__app_a-main/assets/110212209/c3d39695-b6c7-4e70-962f-80d87e17a9c0)
+![ADD](htgithub.com/Nitishkumar427/flask__app_a-main/assets/110212209/c3d39695-b6c7-4e70-962f-80d87e17a9c0)
 ![ADD2](https://github.com/Nitishkumar427/flask__app_a-main/assets/110212209/7cc4d3ac-80b4-4639-bf93-19402415f701)
 
 
